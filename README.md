@@ -1,4 +1,9 @@
-First we import TensorFlow libarary and the ImageDataGenerator class from Keras.Preprocessing.image module.
+# Image-classification
+A Convolutional Neural Network(CNN) binary classifier model.
+
+### For this CNN model to work we have ensured proper preprocessing of images, then the images are trained on fully connected CNNs for future prediction.
+
+* First we import TensorFlow libarary and the ImageDataGenerator class from Keras.Preprocessing.image module.
 
 * In the data preprocessing part we transform the the training and test images by using image augmentation method which is done by the the image data generator class.  This reduces overtraining that is overfitting of images while training.
 
