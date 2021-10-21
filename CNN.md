@@ -10,7 +10,9 @@ Now we use the ReLU rectifier function to increase non-linearity to the neural n
 * In the 3rd layer, pooled feature maps are flattened into a vector which is used as inputs for the ANN used in the next layer.
  
 * Finally we use a a fully connected artificial neural network.
- 
+
+![B16326_12_06](https://user-images.githubusercontent.com/85345738/138188862-ff09951a-7ece-4563-a8bf-b4e7d96a0f6f.png)
+
 Loss functions for Neural Networks
 ----------------------------------
 > **Regression**- Mean squared error(mse)
